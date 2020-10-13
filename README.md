@@ -47,6 +47,7 @@ I have worked for Twinstar on-and-off for eight years.
 #### Fulltime
 <details> 
  <summary><b>TescoSW (current)</b></summary>
+ 
 In 2014 I have graduated from college and landed a fulltime job - **junior fullstack developer** in TescoSW. The product is labeled as an _"enterprise information system"_ and I have become a member of a team working on an in-house built `framework` which most of the company's products are using. Framework is based on a `model-driven architecture` and contains many tools for automatization and also a _custom WYSIWYG GUI editor_. Backend consists of multiple services (application service, cryptography, autentization, DMS...) and custom `ORM`. Everything written mostly in `C#`. There are also many _client apps_ consuming these APIs and I have started to work on a client in the `Silverlight` technology. It is something like a `WPF` app run in a browser in the .NET runtime provided by the _Silverlight plugin_ (Heard of FlashPlayer? This is the Microsoft's clone.).
  
 After a year or two I have moved from backend and Silverlight to the development of a brand new `SPA` `HTML5` client written in `TypeScript`. _Client app_ is a part of the framework. The app basically just takes a _definition of a page_ created in WYSIWYG editor and _business data_ and renders interactive web page in the browser. Without any coding.
